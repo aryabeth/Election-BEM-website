@@ -1,0 +1,56 @@
+body{
+	font-family: "Junction",Helvetica,Arial,sans-serif;
+	background: #30abe0;
+	padding-top: 70px; 
+}
+
+.form-horizontal .control-label{
+	text-align: left;
+}
+
+.navbar, .nav-tabs>li>a{
+	border-radius: 0px;
+}
+
+h1{
+	margin-left: 0px;
+}
+
+.customtitle{
+	padding-left: 0px;
+	padding-bottom: 10px;
+}
+
+.nav-tabs a{
+	color: #fff;
+}
+
+.topmenu{
+	color: white;
+	padding-top: 20px;
+}
+
+.inputdatawarga{
+	background: #fff;
+	color: #000;
+	padding: 10px 20px;
+}
+
+#home,#profile{
+	padding-top: 10px;
+}
+
+input[type=text],input[type="password"],.select, .btn{
+	border-radius: 0px;
+}
+
+.inputleft h4{
+	padding-top: 200px;
+	font-size: 50px;
+	color: white;
+}
+
+.custombutton{
+	text-align: right;
+	padding-right: 0px;
+}
